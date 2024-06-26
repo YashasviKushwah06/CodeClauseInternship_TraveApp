@@ -1,2 +1,8 @@
-# CodeClauseInternship_TraveApp
-A dynamic travel app built with React, HTML, and CSS, offers a seamless experience with a focus on responsive design and captivating animations using AOS, the app ensures a visually appealing interface across all devices.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
